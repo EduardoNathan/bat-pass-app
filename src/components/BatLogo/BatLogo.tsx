@@ -14,7 +14,7 @@ export function BatLogo() {
             source={batlogo}
             style={{
                 resizeMode:'contain',
-                height:400
+                height:300
             }}
         />
     </View>
